@@ -21,5 +21,4 @@ const getTime = (n) => {
 
   return result;
 };
-
 export default getTime;
