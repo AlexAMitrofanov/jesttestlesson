@@ -1,1 +1,5 @@
-Hexlet jest framework lesson 
+# Hexlet jest framework lesson 
+
+<a href="https://codeclimate.com/github/AlexAMitrofanov/jesttestlesson/maintainability"><img img src="https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability" /></a>
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
